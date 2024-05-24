@@ -1,7 +1,7 @@
 # Awesome MLLMs Medical Evaluations
 A collection of resources on medical evaluation of Multimodal Large Languate Models
 <p align="center">
-    <img src="./images/main.webp" width="100%" height="100%">
+    <img src="./MLLM_bench.webp" width="100%" height="100%">
 </p>
 ---
 
