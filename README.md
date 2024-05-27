@@ -6,20 +6,24 @@ A collection of resources on medical evaluation of Multimodal Large Languate Mod
 ---
 
 <font size=5><center><b> Table of Contents </b> </center></font>
-- [Medical Evaluation](#medical-evaluation)
-  - [Commercial Model](#commercial-model)
-  - [Public Model](#public-model)
+- [Commercial Model](#commercial-model)
+  - [Clinical Journal](#clinical-journal)
+  - [Others](#othersl)
+- [Experimental Model](#medical-evaluation)
+  - [Clinical Journal](#clinical-journal)
+  - [Others](#others)
 - [General Evaluation](#general-domain)
   - [Evaluation](#evaluation)
   - [Multimodal Hallucination](#multimodal-hallucination)
   - [Benchmarks for Evaluation](#benchmarks-for-evaluation)
 ---
 
-# Medical Evaluation
+# Commercial Model
 
-## Commercial Model
+## Clinical Journal
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
+| [**Diagnosis of malignancy in oropharyngeal confocal laser endomicroscopy using GPT 4.0 with vision**](https://pubmed.ncbi.nlm.nih.gov/38329525/) | Eur Arch Otorhinolaryngol | 2024 Feb | - |
 | [**GPT-4V passes the BLS and ACLS examinations: An analysis of GPT-4V's image recognition capabilities**](https://pubmed.ncbi.nlm.nih.gov/38160904/) | Resuscitation | 2024 Feb | - |
 | [**Capability of GPT-4V(ision) in the Japanese National Medical Licensing Examination: Evaluation Study**](https://pubmed.ncbi.nlm.nih.gov/38470459/) | JMIR Med Educ | 2024 Mar | - |
 | [**Performance of GPT-4V in Answering the Japanese Otolaryngology Board Certification Examination Questions: Evaluation Study**](https://pubmed.ncbi.nlm.nih.gov/38546736/) | JMIR Med Educ | 2024 Mar | - |
@@ -28,11 +32,29 @@ A collection of resources on medical evaluation of Multimodal Large Languate Mod
 | [**Scientific figures interpreted by ChatGPT: strengths in plot recognition and limits in color perception**](https://pubmed.ncbi.nlm.nih.gov/38580746/) | NPJ Precis Oncol | 2024 Apr | - |
 | [**Evaluation of Multimodal ChatGPT (GPT-4V) in Describing Mammography Image Features**](https://pubmed.ncbi.nlm.nih.gov/38581353/) | Can Assoc Radiol J | 2024 Apr | - |
 | [**Keeping Up With ChatGPT: Evaluating Its Recognition and Interpretation of Nuclear Medicine Images**](https://pubmed.ncbi.nlm.nih.gov/38581353/) | Can Assoc Radiol J | 2024 Apr | - |
+| [**ChatGPT Vision for Radiological Interpretation: An Investigation Using Medical School Radiology Examinations**](https://pubmed.ncbi.nlm.nih.gov/38528699/) | Korean J Radiol | 2024 Apr | - |
 | [**Can ChatGPT vision diagnose melanoma? An exploratory diagnostic accuracy study**](https://pubmed.ncbi.nlm.nih.gov/38244612/) | J Am Acad Dermatol | 2024 May | - |
 | [**Integrating Text and Image Analysis: Exploring GPT-4V's Capabilities in Advanced Radiological Applications Across Subspecialties**](https://pubmed.ncbi.nlm.nih.gov/38691404/) | J Med Internet Res | 2024 May | - |
 | [**Evaluating GPT-V4 (GPT-4 with Vision) on Detection of Radiologic Findings on Chest Radiographs**](https://pubmed.ncbi.nlm.nih.gov/38713028/) | Radiology | 2024 May | - |
+| [**GPT-4 Turbo with Vision fails to outperform text-only GPT-4 Turbo in the Japan Diagnostic Radiology Board Examination**](https://pubmed.ncbi.nlm.nih.gov/38733472/) | Jpn J Radiol | 2024 May | - |
+| [**Performance of GPT-4 Vision on kidney pathology exam questions**](https://pubmed.ncbi.nlm.nih.gov/38767049/) | Am J Clin Pathol | 2024 May | - |
+| [**Unveiling the clinical incapabilities: a benchmarking study of GPT-4V(ision) for ophthalmic multimodal image analysiss**](https://pubmed.ncbi.nlm.nih.gov/38789133/) | Br J Ophthalmol | 2024 May | - |
 
-## Public Model
+## Others
+|  Title  |   Venue  |   Date   |   Page   |
+|:--------|:--------:|:--------:|:--------:|
+| - | - | - | - |
+
+---
+
+# Experimental Model
+
+## Clinical Journal
+|  Title  |   Venue  |   Date   |   Page   |
+|:--------|:--------:|:--------:|:--------:|
+| - | - | - | - |
+
+## Others
 |  Title  |   Venue  |   Date   |   Page   |
 |:--------|:--------:|:--------:|:--------:|
 | - | - | - | - |
